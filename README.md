@@ -1,4 +1,4 @@
-# a-visual-history-of-nobel-prize-winners
+# Visual-history-of-nobel-prize-winners
 
 The Nobel Prize is a widely recognized award that is presented annually to researchers and scholars in various fields such as chemistry, literature, physics, medecine, economics, and peace. The prize was first given out in 1901, but has since evolved to be more inclusive and unbiased. 
 
